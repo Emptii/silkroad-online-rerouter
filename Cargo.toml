@@ -1,0 +1,13 @@
+[package]
+name = "silkroad-online-rerouter"
+version = "0.1.0"
+edition = "2021"
+homepage = "https://github.com/Emptii/silkrout-online-rerouter"
+repository = "https://github.com/Emptii/silkrout-online-rerouter"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+filetime = "0.2"
+pk2 = "0.1.0"
+clap = "2"
